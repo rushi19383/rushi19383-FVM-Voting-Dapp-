@@ -40,7 +40,7 @@ export const VotingProvider = ({ children }) => {
       getAllVoterData();
       getNewCandidate();
     } else {
-      setError("Please Install MetaMask & Connect, Reload");
+      setError("Please Connect  MetaMask");
     }
   };
   const connectWallet = async () => {

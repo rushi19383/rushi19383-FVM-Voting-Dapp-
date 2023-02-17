@@ -18,7 +18,7 @@
 
 .voter__container__box{
     text-align: center;
-    border: 1px dotted #9a02ac;
+    border: 1px dotted #37b049;
     border-radius: 5px;
 }
 
@@ -50,7 +50,7 @@
 }
 
 .Candidate{
-    background-color: #9a02ac;
+    background-color: #30a746;
     padding: .5rem;
     border-radius: .2rem;
     cursor: pointer;
@@ -114,12 +114,12 @@
     color: #B3B8CD;
 }
 .sideInfo_box h4{
-    background-color: #9a02ac;
+    background-color: #28a95a;
     padding: .5rem;
     border-radius: .2rem;
 }
 .sideInfo_box .sideInfo_para{
-    background-color: #9a02ac;
+    background-color: #2ba93e;
     padding: .5rem;
     border-radius: .2rem;
 }
@@ -131,7 +131,7 @@
 
 .card_box{
     line-height: 1;
-    border: 1px solid #9a02ac;
+    border: 1px solid #32a856;
     padding: .2rem;
     box-shadow: 10px 10px 15px rgba(0,0,0,0.35);
     border-radius: .3rem;
